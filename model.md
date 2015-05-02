@@ -1,10 +1,4 @@
 ## [Question Link](https://leetcode.com/problems/majority-element/) 
-##### Tags:
-* Divide and conquer
-* Array
-* Bit manupilation
-
----
 
 ### Solution 1
 #### Idea:
