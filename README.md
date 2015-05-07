@@ -1,5 +1,7 @@
 # Crack Leetcode
-**2015-05-07 update: in order to communicate easily and highlight code, I decide to move this project to my [blog](tsien.github.io).** 
+**2015-05-07 update: in order to communicate easily and highlight code, I decide to move this project to my [blog](www.tsien.github.io).** 
+
+
 Record for leetcode solutions.
 
 Check our daily activity at [Trello](https://trello.com/b/fzE3eZ4B/crack-leetcode).
